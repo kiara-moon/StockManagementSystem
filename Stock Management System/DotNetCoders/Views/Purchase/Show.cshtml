@@ -1,0 +1,154 @@
+﻿@model DotNetCoders.Models.PurchaseView
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Show";
+}
+
+@section MyStyles
+{
+    <style>
+        table {
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        th {
+            background: darkslateblue;
+            text-align: center;
+            padding: 10px;
+            color: azure;
+        }
+
+        td {
+            border: 1px solid #dddddd;
+            text-align: center;
+            padding: 8px;
+        }
+
+        tr:nth-child(even) {
+            background-color: #dddddd;
+        }
+    </style>
+}
+
+<div class="row">
+    <div class="col-md-2"></div>
+    <div class="col-md-8">
+        <div class="form-inline">
+            <div class="form-group">
+                @using (Html.BeginForm("Add", "Purchase", new { page = ViewBag.ActionName }, FormMethod.Get, new { @style = "max-width: 700px; margin: 0 180px 0 0" }))
+                {
+                    <button type="submit" class="btn btn-info" style="background: #254558"> New Purchase </button>
+                }
+            </div>
+            <div class="form-group">
+                @using (Html.BeginForm("Show", "Purchase", FormMethod.Post, new { @style = "max-width: 700px; margin: auto" }))
+                {
+                    @Html.TextBox("search", null, htmlAttributes: new { @class = "form-control", @style = "width: 200px", @type = "text", placeholder = "Search by Name, Email, Contact" })
+                    <button type="submit" class="btn btn-info fa fa-search icon" style="background: #254558"> search</button>
+                }
+            </div>
+        </div>
+
+
+    </div>
+    @*@Html.ActionLink(, "Add", "Customer", htmlAttributes:new { @class = "form-group btn btn-default fa fa-plus-circle icon", @style = "margin: 0 40% 0 0"  })*@
+</div>
+
+
+<table>
+    <tr>
+        <th>Sl</th>
+        <th>Date</th>
+        <th>Purchase Code</th>
+        <th>Supplier</th>
+        <th>Invoice No</th>
+        <th>Action</th>
+    </tr>
+    @{ int sl = 0;}
+    @foreach (var purchase in Model.PurchaseInfos)
+    {
+        <tr>
+            <td>@(++sl)</td>
+            <td>@purchase.Date</td>
+            <td>@purchase.Code</td>
+            <td>@purchase.Supplier.Name</td>
+            <td>@purchase.InvoiceNo</td>
+            <td>
+
+                @Html.ActionLink("Details", null, null, new { @class = "btn-info", @style = "padding: 8px; border-radius: 8px", @id = purchase.Id })
+                @*@Html.ActionLink("Delete", "Delete", "Customer", new { id = std.Id }, null)*@
+            </td>
+        </tr>
+    }
+</table>
+
+<br /><br /><br />
+
+<table>
+    <thead>
+        <tr>
+            <th>Sl</th>
+            <th>Code</th>
+            <th>Product</th>
+            <th>Quantity</th>
+            <th>UnitPrice</th>
+            <th>MRP</th>
+            <th>TotalPrice</th>
+        </tr>
+    </thead>
+    <tbody id="productAll"></tbody>
+
+
+</table>
+
+
+@section MyScripts
+{
+    <script src="~/Scripts/jquery-3.4.1.js"></script>
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+    <script type="text/javascript">
+        $(document).on('click', 'a.btn-info', function () { // <-- changes
+            var id = $(this).attr("id");
+                var jsonData = { id: id };
+                $.ajax({
+                    type: "POST",
+                    url: "/Purchase/Details",
+                    data: jsonData,
+                    //contentType: "application/json; charset=utf-8",
+                    //dataType: "json",
+                    success: function (response) {
+                        $("#productAll").empty();
+                        var j = 0;
+                        $.each(response.PurchaseProductInfos,
+                            function (i, item) {
+                                //var totalPrice = parseFloat(item.Quantity) * parseFloat(item.UnitPrice);
+                                $("#productAll").append(
+                                    $('<tr>'),
+                                    $('<td>').text(++i), $('</td>'),
+                                    $('<td>').text(response.ProductCode[j]), $('</td>'),
+                                    $('<td>').text(response.ProductName[j]), $('</td>'),
+                                    $('<td>').text(item.Quantity), $('</td>'),
+                                    $('<td>').text(item.UnitPrice), $('</td>'),
+                                    $('<td>').text(item.MRP), $('</td>'),
+                                    $('<td>').text(response.TotalPrices[j]), $('</td>'), $('</tr>')
+                                );
+                                j++;
+                            });
+                        
+                    },
+                    failure: function (response) {
+                        alert('no'); //response.responseText
+                    },
+                    error: function (response) {
+                        alert('error');
+                    }
+                });
+
+                return false;
+        });
+
+    </script>
+}

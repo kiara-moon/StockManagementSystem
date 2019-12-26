@@ -1,0 +1,226 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@section MyStyles
+{
+    <!-- Add icon library -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:400,700|Material+Icons" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css">
+    @*<link href="~/Content/bootstrap.min.css" rel="stylesheet" />*@
+
+    <link rel="stylesheet" href="~/lib/Font-Awesome/css/fontawesome.min.css">
+    <link rel="stylesheet" href="~/lib/Font-Awesome/css/all.min.css">
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        .home-title {
+            margin-bottom: 5%;
+        }
+
+        .developers {
+            padding-top: 20px;
+        }
+
+        .home-title h2 {
+            text-align: center;
+            margin-bottom: 2%;
+            margin-top: 5%;
+            text-transform: uppercase;
+            font-weight: bold;
+            letter-spacing: 1px;
+            text-decoration-color: turquoise;
+        }
+
+        h3 {
+            text-align: center;
+            margin-bottom: 2%;
+            font-weight: bold;
+            text-transform: uppercase;
+        }
+
+
+        .home-title h5 {
+            text-align: center;
+            font-weight: bold;
+            text-transform: uppercase;
+        }
+
+
+        .col-md-3 {
+            padding-left: 8px;
+            padding-right: 8px;
+            padding-bottom: 8px;
+        }
+
+        .single-service {
+            background: #35637e;
+            padding: 15px;
+        }
+
+            .single-service i {
+                color: cadetblue;
+                font-size: 80px;
+                padding-bottom: 20px;
+            }
+
+            .single-service h3 {
+                color: #fff;
+                font-size: 18px;
+                text-transform: uppercase;
+                font-weight: bold;
+            }
+
+            .single-service p {
+                text-align: center;
+                color: aliceblue;
+                font-weight: 700;
+            }
+
+            .single-service:hover p {
+                display: block;
+            }
+
+            .single-service:hover i {
+                font-size: 120px;
+                transition: 0.9s;
+                color: aliceblue;
+            }
+
+            .single-service:hover {
+                background: rgba(110, 190, 247, 0.84);
+            }
+    </style>
+
+
+}
+
+<body>
+    <div class="home-title">
+
+        
+        <h5>Developed by Dot net Coders</h5>
+
+    </div>
+
+    <div class="features">
+        <h3>Main Features</h3>
+
+        <div class="container">
+
+            <div class="row">
+
+                <div class="col-md-3">
+                    <div class="single-service rounded">
+                        <i class="fas fa-user-tie"></i>
+                        <h3>Number of Categories</h3>
+                        <hr />
+                        <p>@ViewBag.CatNumber</p>
+                    </div>
+                </div>
+
+                <div class="col-md-3">
+                    <div class="single-service rounded">
+                        <i class="fas fa-user-tie"></i>
+                        <h3>Number of Products</h3>
+                        <hr />
+                        <p>@ViewBag.ProNumber</p>
+                    </div>
+                </div>
+
+                <div class="col-md-3">
+                    <div class="single-service rounded">
+                        <i class="fas fa-user-tie"></i>
+                        <h3>Number of Customers</h3>
+                        <hr />
+                        <p>@ViewBag.CusNumber</p>
+                    </div>
+                </div>
+
+
+                <div class="col-md-3">
+                    <div class="single-service rounded">
+                        <i class="fas fa-user-tie"></i>
+                        <h3>Number of Suppliers</h3>
+                        <hr />
+                        <p>@ViewBag.SupNumber</p>
+                    </div>
+                </div>
+
+
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <div class="developers">
+
+        <h3>Developers</h3>
+
+        <div class="container">
+
+            <div class="row">
+
+                <div class="col-md-3">
+                    <div class="single-service rounded">
+                        <i class="fas fa-user-tie"></i>
+                        <h3>Md. Abdur Rahman</h3>
+                        <hr />
+                        <p>BITM ID: 252215</p>
+                    </div>
+                </div>
+
+                <div class="col-md-3">
+                    <div class="single-service rounded">
+                        <i class="fas fa-user-tie"></i>
+                        <h3>HM Afsar Uddin</h3>
+                        <hr />
+                        <p>BITM ID: 252215</p>
+                    </div>
+                </div>
+
+                <div class="col-md-3">
+                    <div class="single-service rounded">
+                        <i class="fas fa-user-tie"></i>
+                        <h3>Fatema Begum</h3>
+                        <hr />
+                        <p>BITM ID: 252215</p>
+                    </div>
+                </div>
+
+
+                <div class="col-md-3">
+                    <div class="single-service rounded">
+                        <i class="fas fa-user-tie"></i>
+                        <h3>Kaniz Fatema</h3>
+                        <hr />
+                        <p>BITM ID: 252215</p>
+                    </div>
+                </div>
+
+
+
+            </div>
+
+
+        </div>
+
+    </div>
+
+
+
+
+
+
+
+</body>
+
+

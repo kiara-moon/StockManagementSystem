@@ -1,0 +1,321 @@
+H:\BITM Course\project\BITM\New folder\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.csproj.CoreCompileInputs.cache
+H:\BITM Course\project\BITM\New folder\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\DotNetCoders.DatabaseContext.dll.config
+H:\BITM Course\project\BITM\New folder\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\DotNetCoders.DatabaseContext.dll
+H:\BITM Course\project\BITM\New folder\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\DotNetCoders.DatabaseContext.pdb
+H:\BITM Course\project\BITM\New folder\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\DotNetCoders.Model.dll
+H:\BITM Course\project\BITM\New folder\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\EntityFramework.dll
+H:\BITM Course\project\BITM\New folder\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+H:\BITM Course\project\BITM\New folder\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\DotNetCoders.Model.pdb
+H:\BITM Course\project\BITM\New folder\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\EntityFramework.xml
+H:\BITM Course\project\BITM\New folder\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+H:\BITM Course\project\BITM\New folder\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.csprojAssemblyReference.cache
+H:\BITM Course\project\BITM\New folder\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.csproj.CopyComplete
+H:\BITM Course\project\BITM\New folder\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.dll
+H:\BITM Course\project\BITM\New folder\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.pdb
+H:\BITM Course\project\BITM\New folder\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.ProductAdded.resources
+H:\BITM Course\project\BITM\New folder\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.csproj.GenerateResource.cache
+H:\BITM Course\project\BITM\New folder\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.CategoryIdAddedWithProduct.resources
+H:\BITM Course\project\BITM\New folder\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.CategoryAdded.resources
+H:\BITM Course\project\BITM\New folder\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.CustomerAdded.resources
+H:\BITM Course\project\BITM\New folder\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.SupplierAdd.resources
+H:\BITM Course\project\BITM\New folder\Backup\16-11-2019\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\DotNetCoders.DatabaseContext.dll.config
+H:\BITM Course\project\BITM\New folder\Backup\16-11-2019\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\DotNetCoders.DatabaseContext.dll
+H:\BITM Course\project\BITM\New folder\Backup\16-11-2019\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\DotNetCoders.DatabaseContext.pdb
+H:\BITM Course\project\BITM\New folder\Backup\16-11-2019\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\DotNetCoders.Model.dll
+H:\BITM Course\project\BITM\New folder\Backup\16-11-2019\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\EntityFramework.dll
+H:\BITM Course\project\BITM\New folder\Backup\16-11-2019\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+H:\BITM Course\project\BITM\New folder\Backup\16-11-2019\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\DotNetCoders.Model.pdb
+H:\BITM Course\project\BITM\New folder\Backup\16-11-2019\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\EntityFramework.xml
+H:\BITM Course\project\BITM\New folder\Backup\16-11-2019\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+H:\BITM Course\project\BITM\New folder\Backup\16-11-2019\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.csprojAssemblyReference.cache
+H:\BITM Course\project\BITM\New folder\Backup\16-11-2019\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.ProductAdded.resources
+H:\BITM Course\project\BITM\New folder\Backup\16-11-2019\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.CategoryIdAddedWithProduct.resources
+H:\BITM Course\project\BITM\New folder\Backup\16-11-2019\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.CategoryAdded.resources
+H:\BITM Course\project\BITM\New folder\Backup\16-11-2019\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.CustomerAdded.resources
+H:\BITM Course\project\BITM\New folder\Backup\16-11-2019\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.SupplierAdd.resources
+H:\BITM Course\project\BITM\New folder\Backup\16-11-2019\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.csproj.GenerateResource.cache
+H:\BITM Course\project\BITM\New folder\Backup\16-11-2019\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.csproj.CoreCompileInputs.cache
+H:\BITM Course\project\BITM\New folder\Backup\16-11-2019\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.csproj.CopyComplete
+H:\BITM Course\project\BITM\New folder\Backup\16-11-2019\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.dll
+H:\BITM Course\project\BITM\New folder\Backup\16-11-2019\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.pdb
+I:\17-11-19\dotnetcoders\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\DotNetCoders.DatabaseContext.dll.config
+I:\17-11-19\dotnetcoders\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\DotNetCoders.DatabaseContext.dll
+I:\17-11-19\dotnetcoders\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\DotNetCoders.DatabaseContext.pdb
+I:\17-11-19\dotnetcoders\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\DotNetCoders.Model.dll
+I:\17-11-19\dotnetcoders\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\EntityFramework.dll
+I:\17-11-19\dotnetcoders\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+I:\17-11-19\dotnetcoders\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\DotNetCoders.Model.pdb
+I:\17-11-19\dotnetcoders\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\EntityFramework.xml
+I:\17-11-19\dotnetcoders\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+I:\17-11-19\dotnetcoders\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.csprojAssemblyReference.cache
+I:\17-11-19\dotnetcoders\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.ProductAdded.resources
+I:\17-11-19\dotnetcoders\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.CategoryIdAddedWithProduct.resources
+I:\17-11-19\dotnetcoders\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.CategoryAdded.resources
+I:\17-11-19\dotnetcoders\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.CustomerAdded.resources
+I:\17-11-19\dotnetcoders\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.SupplierAdd.resources
+I:\17-11-19\dotnetcoders\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.csproj.GenerateResource.cache
+I:\17-11-19\dotnetcoders\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.csproj.CoreCompileInputs.cache
+I:\17-11-19\dotnetcoders\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.csproj.CopyComplete
+I:\17-11-19\dotnetcoders\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.dll
+I:\17-11-19\dotnetcoders\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.pdb
+I:\17-11-19\dotnetcoders\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.PuchaseProductInfosAdded.resources
+I:\17-11-19\dotnetcoders\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.PurchaseInfosAdded.resources
+H:\BITM Course\project\BITM\Original\gitlab\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\DotNetCoders.DatabaseContext.dll.config
+H:\BITM Course\project\BITM\Original\gitlab\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\DotNetCoders.DatabaseContext.dll
+H:\BITM Course\project\BITM\Original\gitlab\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\DotNetCoders.DatabaseContext.pdb
+H:\BITM Course\project\BITM\Original\gitlab\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\DotNetCoders.Model.dll
+H:\BITM Course\project\BITM\Original\gitlab\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\EntityFramework.dll
+H:\BITM Course\project\BITM\Original\gitlab\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+H:\BITM Course\project\BITM\Original\gitlab\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\DotNetCoders.Model.pdb
+H:\BITM Course\project\BITM\Original\gitlab\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\EntityFramework.xml
+H:\BITM Course\project\BITM\Original\gitlab\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+H:\BITM Course\project\BITM\Original\gitlab\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.csprojAssemblyReference.cache
+H:\BITM Course\project\BITM\Original\gitlab\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.ProductAdded.resources
+H:\BITM Course\project\BITM\Original\gitlab\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.CategoryIdAddedWithProduct.resources
+H:\BITM Course\project\BITM\Original\gitlab\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.CategoryAdded.resources
+H:\BITM Course\project\BITM\Original\gitlab\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.CustomerAdded.resources
+H:\BITM Course\project\BITM\Original\gitlab\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.SupplierAdd.resources
+H:\BITM Course\project\BITM\Original\gitlab\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.PuchaseProductInfosAdded.resources
+H:\BITM Course\project\BITM\Original\gitlab\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.PurchaseInfosAdded.resources
+H:\BITM Course\project\BITM\Original\gitlab\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.csproj.GenerateResource.cache
+H:\BITM Course\project\BITM\Original\gitlab\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.csproj.CoreCompileInputs.cache
+H:\BITM Course\project\BITM\Original\gitlab\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.csproj.CopyComplete
+H:\BITM Course\project\BITM\Original\gitlab\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.dll
+H:\BITM Course\project\BITM\Original\gitlab\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.pdb
+H:\BITM Course\project\BITM\Original\gitlab\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.SalesProductInfoAdded.resources
+H:\BITM Course\project\BITM\Original\gitlab\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.SalesInfoAdded.resources
+I:\21-11-19\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\DotNetCoders.DatabaseContext.dll.config
+I:\21-11-19\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\DotNetCoders.DatabaseContext.dll
+I:\21-11-19\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\DotNetCoders.DatabaseContext.pdb
+I:\21-11-19\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\DotNetCoders.Model.dll
+I:\21-11-19\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\EntityFramework.dll
+I:\21-11-19\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+I:\21-11-19\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\DotNetCoders.Model.pdb
+I:\21-11-19\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\EntityFramework.xml
+I:\21-11-19\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+I:\21-11-19\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.csprojAssemblyReference.cache
+I:\21-11-19\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.ProductAdded.resources
+I:\21-11-19\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.CategoryIdAddedWithProduct.resources
+I:\21-11-19\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.CategoryAdded.resources
+I:\21-11-19\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.CustomerAdded.resources
+I:\21-11-19\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.SupplierAdd.resources
+I:\21-11-19\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.PuchaseProductInfosAdded.resources
+I:\21-11-19\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.PurchaseInfosAdded.resources
+I:\21-11-19\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.SalesProductInfoAdded.resources
+I:\21-11-19\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.SalesInfoAdded.resources
+I:\21-11-19\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.csproj.GenerateResource.cache
+I:\21-11-19\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.csproj.CoreCompileInputs.cache
+I:\21-11-19\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.csproj.CopyComplete
+I:\21-11-19\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.dll
+I:\21-11-19\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.pdb
+C:\Users\FATEMA\Desktop\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\DotNetCoders.DatabaseContext.dll.config
+C:\Users\FATEMA\Desktop\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\DotNetCoders.DatabaseContext.dll
+C:\Users\FATEMA\Desktop\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\DotNetCoders.DatabaseContext.pdb
+C:\Users\FATEMA\Desktop\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\DotNetCoders.Model.dll
+C:\Users\FATEMA\Desktop\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\EntityFramework.dll
+C:\Users\FATEMA\Desktop\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\FATEMA\Desktop\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\DotNetCoders.Model.pdb
+C:\Users\FATEMA\Desktop\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\EntityFramework.xml
+C:\Users\FATEMA\Desktop\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\FATEMA\Desktop\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.csprojAssemblyReference.cache
+C:\Users\FATEMA\Desktop\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.ProductAdded.resources
+C:\Users\FATEMA\Desktop\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.CategoryIdAddedWithProduct.resources
+C:\Users\FATEMA\Desktop\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.CategoryAdded.resources
+C:\Users\FATEMA\Desktop\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.CustomerAdded.resources
+C:\Users\FATEMA\Desktop\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.SupplierAdd.resources
+C:\Users\FATEMA\Desktop\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.PuchaseProductInfosAdded.resources
+C:\Users\FATEMA\Desktop\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.PurchaseInfosAdded.resources
+C:\Users\FATEMA\Desktop\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.SalesProductInfoAdded.resources
+C:\Users\FATEMA\Desktop\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.SalesInfoAdded.resources
+C:\Users\FATEMA\Desktop\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.csproj.GenerateResource.cache
+C:\Users\FATEMA\Desktop\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.csproj.CoreCompileInputs.cache
+C:\Users\FATEMA\Desktop\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.csproj.CopyComplete
+C:\Users\FATEMA\Desktop\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.dll
+C:\Users\FATEMA\Desktop\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.pdb
+D:\projects\BITM-Final-Project\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\DotNetCoders.DatabaseContext.dll.config
+D:\projects\BITM-Final-Project\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\DotNetCoders.DatabaseContext.dll
+D:\projects\BITM-Final-Project\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\DotNetCoders.DatabaseContext.pdb
+D:\projects\BITM-Final-Project\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\DotNetCoders.Model.dll
+D:\projects\BITM-Final-Project\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\EntityFramework.dll
+D:\projects\BITM-Final-Project\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+D:\projects\BITM-Final-Project\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\DotNetCoders.Model.pdb
+D:\projects\BITM-Final-Project\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\EntityFramework.xml
+D:\projects\BITM-Final-Project\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+D:\projects\BITM-Final-Project\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.csprojAssemblyReference.cache
+D:\projects\BITM-Final-Project\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.ProductAdded.resources
+D:\projects\BITM-Final-Project\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.CategoryIdAddedWithProduct.resources
+D:\projects\BITM-Final-Project\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.CategoryAdded.resources
+D:\projects\BITM-Final-Project\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.CustomerAdded.resources
+D:\projects\BITM-Final-Project\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.SupplierAdd.resources
+D:\projects\BITM-Final-Project\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.PuchaseProductInfosAdded.resources
+D:\projects\BITM-Final-Project\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.PurchaseInfosAdded.resources
+D:\projects\BITM-Final-Project\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.SalesProductInfoAdded.resources
+D:\projects\BITM-Final-Project\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.SalesInfoAdded.resources
+D:\projects\BITM-Final-Project\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.csproj.GenerateResource.cache
+D:\projects\BITM-Final-Project\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.csproj.CoreCompileInputs.cache
+D:\projects\BITM-Final-Project\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.csproj.CopyComplete
+D:\projects\BITM-Final-Project\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.dll
+D:\projects\BITM-Final-Project\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.pdb
+D:\projects\BITM-Final-Project\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.ProductAddedWithCategory.resources
+H:\BITM Course\project\BITM\Original\gitlab\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.ProductAddedWithCategory.resources
+I:\gitlab\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\DotNetCoders.DatabaseContext.dll.config
+I:\gitlab\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\DotNetCoders.DatabaseContext.dll
+I:\gitlab\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\DotNetCoders.DatabaseContext.pdb
+I:\gitlab\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\DotNetCoders.Model.dll
+I:\gitlab\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\EntityFramework.dll
+I:\gitlab\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+I:\gitlab\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\DotNetCoders.Model.pdb
+I:\gitlab\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\EntityFramework.xml
+I:\gitlab\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+I:\gitlab\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.csprojAssemblyReference.cache
+I:\gitlab\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.ProductAdded.resources
+I:\gitlab\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.CategoryIdAddedWithProduct.resources
+I:\gitlab\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.CategoryAdded.resources
+I:\gitlab\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.CustomerAdded.resources
+I:\gitlab\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.SupplierAdd.resources
+I:\gitlab\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.PuchaseProductInfosAdded.resources
+I:\gitlab\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.PurchaseInfosAdded.resources
+I:\gitlab\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.SalesProductInfoAdded.resources
+I:\gitlab\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.SalesInfoAdded.resources
+I:\gitlab\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.ProductAddedWithCategory.resources
+I:\gitlab\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.csproj.GenerateResource.cache
+I:\gitlab\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.csproj.CoreCompileInputs.cache
+I:\gitlab\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.csproj.CopyComplete
+I:\gitlab\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.dll
+I:\gitlab\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.pdb
+H:\BITM Course\project\BITM\Original\gitlab\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.CategoryChanged.resources
+H:\BITM Course\project\BITM\Original\gitlab\webappproject\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.PurchaseInfoChanged.resources
+I:\gitlab\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\DotNetCoders.DatabaseContext.dll.config
+I:\gitlab\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\DotNetCoders.DatabaseContext.dll
+I:\gitlab\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\DotNetCoders.DatabaseContext.pdb
+I:\gitlab\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\DotNetCoders.Model.dll
+I:\gitlab\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\EntityFramework.dll
+I:\gitlab\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+I:\gitlab\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\DotNetCoders.Model.pdb
+I:\gitlab\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\EntityFramework.xml
+I:\gitlab\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+I:\gitlab\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.csprojAssemblyReference.cache
+I:\gitlab\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.ProductAdded.resources
+I:\gitlab\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.CategoryIdAddedWithProduct.resources
+I:\gitlab\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.CategoryAdded.resources
+I:\gitlab\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.CustomerAdded.resources
+I:\gitlab\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.SupplierAdd.resources
+I:\gitlab\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.PuchaseProductInfosAdded.resources
+I:\gitlab\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.PurchaseInfosAdded.resources
+I:\gitlab\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.SalesProductInfoAdded.resources
+I:\gitlab\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.SalesInfoAdded.resources
+I:\gitlab\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.ProductAddedWithCategory.resources
+I:\gitlab\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.CategoryChanged.resources
+I:\gitlab\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.PurchaseInfoChanged.resources
+I:\gitlab\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.csproj.GenerateResource.cache
+I:\gitlab\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.csproj.CoreCompileInputs.cache
+I:\gitlab\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.csproj.CopyComplete
+I:\gitlab\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.dll
+I:\gitlab\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.pdb
+H:\BITM Course\project\BITM\Original\Backup\04-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\DotNetCoders.DatabaseContext.dll.config
+H:\BITM Course\project\BITM\Original\Backup\04-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\DotNetCoders.DatabaseContext.dll
+H:\BITM Course\project\BITM\Original\Backup\04-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\DotNetCoders.DatabaseContext.pdb
+H:\BITM Course\project\BITM\Original\Backup\04-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\DotNetCoders.Model.dll
+H:\BITM Course\project\BITM\Original\Backup\04-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\EntityFramework.dll
+H:\BITM Course\project\BITM\Original\Backup\04-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+H:\BITM Course\project\BITM\Original\Backup\04-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\DotNetCoders.Model.pdb
+H:\BITM Course\project\BITM\Original\Backup\04-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\EntityFramework.xml
+H:\BITM Course\project\BITM\Original\Backup\04-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+H:\BITM Course\project\BITM\Original\Backup\04-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.csprojAssemblyReference.cache
+H:\BITM Course\project\BITM\Original\Backup\04-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.ProductAdded.resources
+H:\BITM Course\project\BITM\Original\Backup\04-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.CategoryIdAddedWithProduct.resources
+H:\BITM Course\project\BITM\Original\Backup\04-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.CategoryAdded.resources
+H:\BITM Course\project\BITM\Original\Backup\04-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.CustomerAdded.resources
+H:\BITM Course\project\BITM\Original\Backup\04-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.SupplierAdd.resources
+H:\BITM Course\project\BITM\Original\Backup\04-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.PuchaseProductInfosAdded.resources
+H:\BITM Course\project\BITM\Original\Backup\04-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.PurchaseInfosAdded.resources
+H:\BITM Course\project\BITM\Original\Backup\04-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.SalesProductInfoAdded.resources
+H:\BITM Course\project\BITM\Original\Backup\04-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.SalesInfoAdded.resources
+H:\BITM Course\project\BITM\Original\Backup\04-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.ProductAddedWithCategory.resources
+H:\BITM Course\project\BITM\Original\Backup\04-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.CategoryChanged.resources
+H:\BITM Course\project\BITM\Original\Backup\04-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.PurchaseInfoChanged.resources
+H:\BITM Course\project\BITM\Original\Backup\04-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.csproj.GenerateResource.cache
+H:\BITM Course\project\BITM\Original\Backup\04-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.csproj.CoreCompileInputs.cache
+H:\BITM Course\project\BITM\Original\Backup\04-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.csproj.CopyComplete
+H:\BITM Course\project\BITM\Original\Backup\04-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.dll
+H:\BITM Course\project\BITM\Original\Backup\04-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.pdb
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\DotNetCoders.DatabaseContext.dll.config
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\DotNetCoders.DatabaseContext.dll
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\DotNetCoders.DatabaseContext.pdb
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\DotNetCoders.Model.dll
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\EntityFramework.dll
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\DotNetCoders.Model.pdb
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\EntityFramework.xml
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.csprojAssemblyReference.cache
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.ProductAdded.resources
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.CategoryIdAddedWithProduct.resources
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.CategoryAdded.resources
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.CustomerAdded.resources
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.SupplierAdd.resources
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.PuchaseProductInfosAdded.resources
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.PurchaseInfosAdded.resources
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.SalesProductInfoAdded.resources
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.SalesInfoAdded.resources
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.ProductAddedWithCategory.resources
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.CategoryChanged.resources
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.PurchaseInfoChanged.resources
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.csproj.GenerateResource.cache
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.csproj.CoreCompileInputs.cache
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.csproj.CopyComplete
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.dll
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.pdb
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\System.Web.Mvc.dll
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\System.Web.WebPages.dll
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\System.Web.WebPages.Razor.dll
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\System.Web.Razor.dll
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\Microsoft.Web.Infrastructure.dll
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\System.Web.WebPages.Deployment.dll
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\System.Web.Mvc.xml
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\System.Web.WebPages.xml
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\System.Web.WebPages.Razor.xml
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\System.Web.Razor.xml
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\System.Web.WebPages.Deployment.xml
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.PurchaseInfoUpdated.resources
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.PurchaseProductInfoUpdated.resources
+I:\Final\Final2\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\DotNetCoders.DatabaseContext.dll.config
+I:\Final\Final2\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\DotNetCoders.DatabaseContext.dll
+I:\Final\Final2\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\DotNetCoders.DatabaseContext.pdb
+I:\Final\Final2\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\DotNetCoders.Model.dll
+I:\Final\Final2\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\EntityFramework.dll
+I:\Final\Final2\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+I:\Final\Final2\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\System.Web.Mvc.dll
+I:\Final\Final2\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\System.Web.WebPages.dll
+I:\Final\Final2\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\System.Web.WebPages.Razor.dll
+I:\Final\Final2\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\System.Web.Razor.dll
+I:\Final\Final2\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\Microsoft.Web.Infrastructure.dll
+I:\Final\Final2\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\System.Web.WebPages.Deployment.dll
+I:\Final\Final2\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\DotNetCoders.Model.pdb
+I:\Final\Final2\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\EntityFramework.xml
+I:\Final\Final2\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+I:\Final\Final2\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\System.Web.Mvc.xml
+I:\Final\Final2\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\System.Web.WebPages.xml
+I:\Final\Final2\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\System.Web.WebPages.Razor.xml
+I:\Final\Final2\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\System.Web.Razor.xml
+I:\Final\Final2\DotNetCoders\DotNetCoders.DatabaseContext\bin\Debug\System.Web.WebPages.Deployment.xml
+I:\Final\Final2\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.csprojAssemblyReference.cache
+I:\Final\Final2\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.ProductAdded.resources
+I:\Final\Final2\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.CategoryIdAddedWithProduct.resources
+I:\Final\Final2\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.CategoryAdded.resources
+I:\Final\Final2\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.CustomerAdded.resources
+I:\Final\Final2\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.SupplierAdd.resources
+I:\Final\Final2\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.PuchaseProductInfosAdded.resources
+I:\Final\Final2\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.PurchaseInfosAdded.resources
+I:\Final\Final2\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.SalesProductInfoAdded.resources
+I:\Final\Final2\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.SalesInfoAdded.resources
+I:\Final\Final2\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.ProductAddedWithCategory.resources
+I:\Final\Final2\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.CategoryChanged.resources
+I:\Final\Final2\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.PurchaseInfoChanged.resources
+I:\Final\Final2\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.PurchaseInfoUpdated.resources
+I:\Final\Final2\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.Migrations.PurchaseProductInfoUpdated.resources
+I:\Final\Final2\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.csproj.GenerateResource.cache
+I:\Final\Final2\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.csproj.CoreCompileInputs.cache
+I:\Final\Final2\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.csproj.CopyComplete
+I:\Final\Final2\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.dll
+I:\Final\Final2\DotNetCoders\DotNetCoders.DatabaseContext\obj\Debug\DotNetCoders.DatabaseContext.pdb

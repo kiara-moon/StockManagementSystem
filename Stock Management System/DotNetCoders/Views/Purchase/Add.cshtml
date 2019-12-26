@@ -1,0 +1,461 @@
+﻿@model DotNetCoders.Models.PurchaseView
+@{
+    ViewBag.Title = "Add";
+}
+@section MyStyles
+{
+    <style>
+        input[type=number]::-webkit-inner-spin-button,
+        input[type=number]::-webkit-outer-spin-button {
+            -webkit-appearance: none;
+        }
+
+        input[type=number] {
+            -moz-appearance: textfield;
+        }
+
+        table {
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        th {
+            background: darkslateblue;
+            text-align: center;
+            padding: 8px;
+            color: azure;
+        }
+
+        td {
+            border: 1px solid #dddddd;
+            text-align: center;
+            padding: 5px;
+        }
+
+        tr:nth-child(even) {
+            background-color: #dddddd;
+        }
+    </style>
+}
+<div class="row">
+    <div class="col-md-5"></div>
+    <div class="col-md-4">
+        <div class="form-inline">
+            <div class="form-group">
+                @using (Html.BeginForm("Show", "Purchase", new { page = ViewBag.ActionName }, FormMethod.Get, new { @style = "max-width: 700px; margin: 0 180px 0 0" }))
+                {
+                    <button type="submit" class="btn btn-info" style="background: #254558"> Show Purchase </button>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-1"></div>
+    <div class="col-md-10">
+        <div class="card">
+            <div class="card-header card-header-primary" style="background: #447fa2">
+                <h4 class="card-title"> @ViewBag.ViewName Purchase</h4>
+            </div>
+            <div class="card-body">
+                @using (Html.BeginForm("Add", "Purchase", FormMethod.Post, new { @style = "max-width: 700px; margin: auto" }))
+                {
+                    <fieldset style="border: 2px solid dodgerblue">
+                        <legend style="width: auto; font-size: medium; text-align: center">Purchase</legend>
+                        <div class="row">
+                            <div class="col-md-1"></div>
+                            <div class="col-md-10">
+                                <div class="form-group">
+                                    @Html.TextBoxFor(c => c.PurchaseInfo.Id, htmlAttributes: new { @type = "hidden" })
+                                    @Html.LabelFor(c => c.PurchaseInfo.Date, htmlAttributes: new { @class = "bmd-label-floating" })
+                                    @Html.TextBoxFor(c => c.PurchaseInfo.Date, htmlAttributes: new
+                                    {
+                                        @class = "form-control", @type = "date", @placeholder = "date",
+                                    })
+                                    @Html.ValidationMessageFor(c => c.PurchaseInfo.Date, null, htmlAttributes: new { @class = "text-danger" })
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-1"></div>
+                            <div class="col-md-10">
+                                <div class="form-group">
+                                    @Html.LabelFor(c => c.PurchaseInfo.InvoiceNo, htmlAttributes: new { @class = "bmd-label-floating" })
+                                    @Html.TextBoxFor(c => c.PurchaseInfo.InvoiceNo, htmlAttributes: new
+                                    {
+                                        @class = "form-control", @type = "text", @placeholder = "InvoiceNo",
+                                    })
+                                    @Html.ValidationMessageFor(c => c.PurchaseInfo.InvoiceNo, null, htmlAttributes: new { @class = "text-danger" })
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-1"></div>
+                            <div class="col-md-10">
+                                <div class="form-group">
+                                    @*@Html.LabelFor(c => c.PurchaseInfo.SupplierId, htmlAttributes: new { @class = "bmd-label-floating" })*@
+                                    @Html.DropDownListFor(s => s.PurchaseInfo.SupplierId, Model.SupplierSelectListItems, "<--Select Supplier-->", htmlAttributes: new { @class = "form-control" })
+                                    @Html.ValidationMessageFor(c => c.PurchaseInfo.SupplierId, null, htmlAttributes: new { @class = "text-danger" })
+                                </div>
+                            </div>
+                        </div>
+                    </fieldset>
+                    <fieldset style="border: 2px solid dodgerblue">
+                        <legend style="width: auto; font-size: medium; text-align: center">Products</legend>
+                        <div class="row form-group">
+                            <div class="col-md-6">
+                                @Html.DropDownListFor(c => c.Category.Id, Model.CategorySelectListItems, "<--Select Category-->", htmlAttributes: new { @class = "form-control" })
+                                @Html.ValidationMessageFor(c => c.Category.Id, null, htmlAttributes: new { @class = "alert-danger" })
+                                @Html.DropDownListFor(p => p.Product.Id, Model.ProductSelectListItems, "<--Select Product-->", htmlAttributes: new { @class = "form-control" })
+                                @Html.ValidationMessageFor(c => c.Product.Id, null, htmlAttributes: new { @class = "alert-danger" })
+                                <div class="row">
+                                    <div class="col-md-5">
+                                        @Html.LabelFor(c => c.Product.Code, htmlAttributes: new { @class = "bmd-label-floating" })
+                                    </div>
+                                    <div class="col-md-7">
+                                        @Html.TextBoxFor(c => c.Product.Code, htmlAttributes: new
+                                        {
+                                            @class = "form-control", @type = "text", @placeholder = "Code", @readonly = "readonly",
+                                        })
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-5">
+                                        @Html.LabelFor(c => c.AvailableQuantity, htmlAttributes: new { @class = "bmd-label-floating" })
+                                    </div>
+                                    <div class="col-md-7">
+                                        @Html.TextBoxFor(c => c.AvailableQuantity, htmlAttributes: new
+                                        {
+                                            @class = "form-control", @type = "text", @id = "AvailableQuantity",
+                                            @placeholder = "AvailableQuantity", @readonly = "readonly",
+                                            @value = (Model.AvailableQuantity == 0) ? "0" : Model.AvailableQuantity.ToString(),
+                                        })
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-5">
+                                        @Html.LabelFor(c => c.PurchaseProductInfo.ManufacturedDate, htmlAttributes: new { @class = "bmd-label-floating" })
+                                    </div>
+                                    <div class="col-md-7">
+                                        @Html.TextBoxFor(c => c.PurchaseProductInfo.ManufacturedDate, htmlAttributes: new
+                                        {
+                                            @class = "form-control", @type = "date"
+                                        })
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-5">
+                                        @Html.LabelFor(c => c.PurchaseProductInfo.ExpiredDate, htmlAttributes: new { @class = "bmd-label-floating" })
+                                    </div>
+                                    <div class="col-md-7">
+                                        @Html.TextBoxFor(c => c.PurchaseProductInfo.ExpiredDate, htmlAttributes: new
+                                        {
+                                            @class = "form-control", @type = "date",
+                                        })
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-5">
+                                        @Html.LabelFor(c => c.PurchaseProductInfo.Remarks, htmlAttributes: new { @class = "bmd-label-floating" })
+                                    </div>
+                                    <div class="col-md-7">
+                                        @Html.TextAreaFor(c => c.PurchaseProductInfo.Remarks, htmlAttributes: new
+                                        {
+                                            @class = "form-control", @type = "text", @placeholder = "Remarks",
+                                        })
+                                    </div>
+                                </div>
+                            </div>
+                        <div class="col-md-6">
+                                <div class="row">
+                                    <div class="col-md-5">@Html.LabelFor(c => c.PurchaseProductInfo.Quantity, htmlAttributes: new { @class = "bmd-label-floating" })</div>
+                                    <div class="col-md-7">
+                                        @Html.TextBoxFor(c => c.PurchaseProductInfo.Quantity, htmlAttributes: new
+                                        {
+                                            @class = "form-control", @type = "text", @placeholder = "Quantity",
+                                        })
+                                    </div>
+                                    @Html.ValidationMessageFor(c => c.PurchaseProductInfo.Quantity, null, htmlAttributes: new { @class = "alert-danger" })
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-5">
+                                        @Html.LabelFor(c => c.PurchaseProductInfo.UnitPrice, htmlAttributes: new { @class = "bmd-label-floating" })
+                                    </div>
+                                    <div class="col-md-7">
+                                        @Html.TextBoxFor(c => c.PurchaseProductInfo.UnitPrice, htmlAttributes: new
+                                        {
+                                            @class = "form-control", @type = "text", @placeholder = "UnitPrice",
+                                        })
+                                    </div>
+                                    @Html.ValidationMessageFor(c => c.PurchaseProductInfo.UnitPrice, null, htmlAttributes: new { @class = "alert-danger" })
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-5">
+                                        @Html.LabelFor(c => c.TotalPrice, htmlAttributes: new { @class = "bmd-label-floating" })
+                                    </div>
+                                    <div class="col-md-7">
+                                        @Html.TextBoxFor(c => c.TotalPrice, htmlAttributes: new
+                                        {
+                                            @class = "form-control", @type = "text", @placeholder = "TotalPrice", @readonly = "readonly",
+                                            @Value = (Model.TotalPrice == 0) ? "0" : Model.TotalPrice.ToString()
+                                        })
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-5">
+                                        @Html.LabelFor(c => c.PreviousUnitPrice, htmlAttributes: new { @class = "bmd-label-floating" })
+                                    </div>
+                                    <div class="col-md-7">
+                                        @Html.TextBoxFor(c => c.PreviousUnitPrice, htmlAttributes: new
+                                        {
+                                            @class = "form-control", @type = "text", @placeholder = "PreviousUnitPrice",
+                                            @readonly = "readonly",
+                                            @value = (Model.PreviousUnitPrice == 0) ? "0" : Model.PreviousUnitPrice.ToString()
+                                        })
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-5">
+                                        @Html.LabelFor(c => c.PreviousMRP, htmlAttributes: new { @class = "bmd-label-floating" })
+                                    </div>
+                                    <div class="col-md-7">
+                                        @Html.TextBoxFor(c => c.PreviousMRP, htmlAttributes: new
+                                        {
+                                            @class = "form-control", @type = "text",
+                                            @placeholder = "PreviousMRP", @readonly = "readonly",
+                                            @value = (Model.PreviousMRP == 0) ? "0" : Model.PreviousMRP.ToString()
+                                        })
+                                    </div>
+                                </div>
+                            <div class="row">
+                                <div class="col-md-5">
+                                    @Html.LabelFor(c => c.PurchaseProductInfo.MRP, htmlAttributes: new { @class = "bmd-label-floating" })
+                                </div>
+                                <div class="col-md-7">
+                                    @Html.TextBoxFor(c => c.PurchaseProductInfo.MRP, htmlAttributes: new
+                                    {
+                                        @class = "form-control", @type = "text", @placeholder = "MRP",
+                                        @value = (Model.PurchaseProductInfo.MRP == 0) ? "0" : Model.PurchaseProductInfo.MRP.ToString()
+                                    })
+                                </div>
+                                @Html.ValidationMessageFor(c => c.PurchaseProductInfo.MRP, null, htmlAttributes: new { @class = "alert-danger" })
+                            </div>
+                            <div class="row">
+                                
+                                <div class="col-md-5"></div>
+                                <div class="col-md-7">
+                                    
+                                    <br />
+                                    <input type="button" id="add" value="Add" class="btn btn-info pull-right" style="background: #254558" disabled="disabled"/>
+                                    <div class="clearfix"></div>
+                                </div>
+                            </div>
+                        </div>
+                                
+                        </div>
+                            
+                        
+                        
+                    </fieldset>
+                    <fieldset style="border: 2px solid dodgerblue">
+                        <legend style="width: auto; font-size: medium; text-align: center">Purchase</legend>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <table>
+                                    <thead>
+                                        <tr style="font-size: 13px">
+                                            <th>Sl</th>
+                                            <th>Product(Code)</th>
+                                            <th>Manufactured Date</th>
+                                            <th>Expire Date</th>
+                                            <th>Quantity</th>
+                                            <th>Unit Price (Tk)</th>
+                                            <th>Total Price (Tk)</th>
+                                            <th>MRP (Tk)</th>
+                                            <th>Remarks</th>
+                                            <th>Action</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody id="addedProduct"></tbody>
+                                    @*<tr>
+                                            <td>Sl</td> <td>Product(Code)</td> <td>Manufactured Date</td>
+                                            <td>Expire Date</td> <td>Quantity</td> <td>Unit Price (Tk)</td>
+                                            <td>Total Price (Tk)</td> <td>MRP (Tk)</td>
+                                            <td>Remarks</td> <td>Action</td>
+                                        </tr>*@
+                                </table>
+                            </div>
+                        </div>
+                        <button type="submit" class="btn btn-info pull-right" style="background: #254558">Submit</button>
+                        <div class="clearfix"></div>
+                    </fieldset>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-2"></div>
+    <div class="col-md-8">
+        @if (ViewBag.Message != null)
+        {
+            <div class="alert alert-success" style="margin: auto">@ViewBag.Message</div>
+        }
+    </div>
+    <div class="col-md-2"></div>
+</div>
+@section MyScripts
+{
+    <script src="~/Scripts/jquery-3.4.1.js"></script>
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("select").each(function () {
+                if ($(this).find("option").length <= 1) {
+                    $(this).attr("disabled", "disabled");
+                }
+            });
+            $("select").change(function () {
+                var value = 0;
+                if ($(this).val() != "") {
+                    value = $(this).val();
+                }
+                var id = $(this).attr("id");
+                $.ajax({
+                    type: "POST",
+                    url: "/Purchase/AjaxMethod",
+                    data: '{type: "' + id + '", value: ' + value + '}',
+                    contentType: "application/json; charset=utf-8",
+                    dataType: "json",
+                    success: function (response) {
+                        var dropDownId;
+                        var list;
+                        var code;
+                        var availableQuantity;
+                        var preUnitPrice;
+                        var preMRP;
+                        switch (id) {
+                            case "Category_Id":
+                                list = response.ProductSelectListItems;
+                                DisableDropDown("#Product_Id");
+                                PopulateDropDown("#Product_Id", list);
+                                break;
+                            case "Product_Id":
+                                code = response.Product.Code;
+                                availableQuantity = response.AvailableQuantity;
+                                preUnitPrice = response.PreviousUnitPrice;
+                                preMRP = response.PreviousMRP;
+                                $("#Product_Code").val(code);
+                                $("#AvailableQuantity").val(availableQuantity);
+                                $("#PreviousUnitPrice").val(preUnitPrice);
+                                $("#PreviousMRP").val(preMRP);
+                                break;
+                        }
+                    },
+                    failure: function (response) {
+                        alert(response.responseText);
+                    },
+                    error: function (response) {
+                        alert(response.responseText);
+                    }
+                });
+            });
+
+            $("#PurchaseProductInfo_Quantity").keyup(function () {
+                var qty = parseFloat($("#PurchaseProductInfo_Quantity").val());
+                var unitPrice = parseFloat($("#PurchaseProductInfo_UnitPrice").val());
+                $("#TotalPrice").val(qty * unitPrice);
+            });
+            $("#PurchaseProductInfo_UnitPrice").keyup(function () {
+                var qty = parseFloat($("#PurchaseProductInfo_Quantity").val());
+                var unitPrice = parseFloat($("#PurchaseProductInfo_UnitPrice").val());
+                $("#TotalPrice").val(qty * unitPrice);
+                $("#PurchaseProductInfo_MRP").val(unitPrice * 1.25);
+                $("#add").prop('disabled', false);
+            });
+            var index = 0;
+            $('#add').click(function () {
+                var product = GetProductData();
+
+                var productRow = GetResultRow(product);
+                $("#addedProduct").append(productRow);
+                $("#add").prop('disabled', true);
+                index++;
+            });
+
+            function GetProductData() {
+
+                var productCode = $('#Product_Code').val();
+                var productId = $('#Product_Id').val();
+                var manufacturedDate = $('#PurchaseProductInfo_ManufacturedDate').val();
+                var expireDate = $('#PurchaseProductInfo_ExpiredDate').val();
+                var quantity = $('#PurchaseProductInfo_Quantity').val();
+                var unitPrice = $('#PurchaseProductInfo_UnitPrice').val();
+                var totalPrice = $('#TotalPrice').val();
+                var mrp = $('#PurchaseProductInfo_MRP').val();
+                var remarks = $('#PurchaseProductInfo_Remarks').val();
+
+                return { ProductCode: productCode, ProductId: productId, ManufacturedDate: manufacturedDate, ExpireDate: expireDate, Quantity: quantity, UnitPrice: unitPrice, TotalPrice: totalPrice, MRP: mrp, Remarks: remarks }
+            }
+
+            var sl = index;
+            function GetResultRow(product) {
+
+                //var productCodeHidden = "<input type='hidden' name='PurchaseInfo.PurchaseProductInfos[" + index + "].Product.Code' value='" + product.ProductCode + "'></div>";
+                var productIdHidden = "<input type='hidden' name='PurchaseInfo.PurchaseProductInfos[" + index + "].ProductId' value='" + product.ProductId + "'></div>";
+                var productManufacturedDateHidden = "<input type='hidden' name='PurchaseInfo.PurchaseProductInfos[" + index + "].ManufacturedDate' value='" + product.ManufacturedDate + "'></div>";
+                var productExpireDateHidden = "<input type='hidden' name='PurchaseInfo.PurchaseProductInfos[" + index + "].ExpiredDate' value='" + product.ExpireDate + "'></div>";
+                var productQuantityHidden = "<input type='hidden' name='PurchaseInfo.PurchaseProductInfos[" + index + "].Quantity' value='" + product.Quantity + "'></div>";
+                var productUnitPriceHidden = "<input type='hidden' name='PurchaseInfo.PurchaseProductInfos[" + index + "].UnitPrice' value='" + product.UnitPrice + "'></div>";
+                var productMRPHidden = "<input type='hidden' name='PurchaseInfo.PurchaseProductInfos[" + index + "].MRP' value='" + product.MRP + "'></div>";
+                var productRemarksHidden = "<input type='hidden' name='PurchaseInfo.PurchaseProductInfos[" + index + "].Remarks' value='" + product.Remarks + "'></div>";
+
+
+                var startTr = "<tr id=" + (++sl) + ">";
+                var slCell = "<td class=' info'>" + (sl) + "</td>";
+                var codeCell = "<td class='info'>" + productIdHidden + product.ProductCode + "</td>";
+                var mDateCell = "<td class='info'>" + productManufacturedDateHidden + product.ManufacturedDate + "</td>";
+                var eDateCell = "<td class='info'>" + productExpireDateHidden + product.ExpireDate + "</td>";
+                var quantityCell = "<td class='info'>" + productQuantityHidden + product.Quantity + "</td>";
+                var unitPriceCell = "<td class='info'>" + productUnitPriceHidden + product.UnitPrice + "</td>";
+                var totalPriceCell = "<td class='info'>" + productMRPHidden + product.TotalPrice + "</td>";
+                var mrpCell = "<td class='info'>" + productMRPHidden + product.MRP + "</td>";
+                var remarksCell = "<td class='info'>" + productRemarksHidden + product.Remarks + "</td>";
+                var actionCell = "<td class='info'>" + " <button type='button'  class='btn-danger' title='Remove this row' style='background-color: red'><i class='material-icons'>delete</i></button>" + "</td>";
+                var endTr = "</tr>";
+
+                return (startTr + slCell + codeCell + mDateCell + eDateCell + quantityCell + unitPriceCell + totalPriceCell + mrpCell + remarksCell + actionCell + endTr);
+
+            }
+
+
+
+        });
+        function DisableDropDown(dropDownId) {
+            $(dropDownId).attr("disabled", "disabled");
+            $(dropDownId).empty().append('<option selected="selected" value="0">Please select</option>');
+        }
+
+        function PopulateDropDown(dropDownId, list) {
+            if (list != null && list.length > 0) {
+                $(dropDownId).removeAttr("disabled");
+                $.each(list, function () {
+                    $(dropDownId).append($("<option></option>").val(this['Value']).html(this['Text']));
+                });
+            }
+        }
+
+        $(document).on('click', 'button.btn-danger', function () { // <-- changes
+            alert("Do you want to delete this purchase?");
+            $(this).closest('tr').remove();
+            return false;
+        });
+    </script>
+}
+
+
+

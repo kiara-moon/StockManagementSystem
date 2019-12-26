@@ -1,0 +1,111 @@
+﻿@using System.Diagnostics.Eventing.Reader
+@model DotNetCoders.Models.CategoryView
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Add";
+}
+@section MyStyles
+{
+    <style>
+        input[type=number]::-webkit-inner-spin-button,
+        input[type=number]::-webkit-outer-spin-button {
+            -webkit-appearance: none;
+        }
+        input[type=number] {
+            -moz-appearance: textfield;
+        }
+</style>   
+}
+    <div class="row">
+        <div class="col-md-2"></div>
+        <div class="col-md-8">
+            <div class="form-inline">
+                <div class="form-group">
+                    @using (Html.BeginForm("Show", "Category", null, FormMethod.Get, new { @style = "max-width: 700px; margin: 0 180px 0 0" }))
+                    {
+                        <button pull-left type="submit" class="btn btn-info" style="background: #254558"> Show Category </button>
+                    }
+                </div>
+                <div class="form-group">
+                    @using (Html.BeginForm("Show", "Category", FormMethod.Post, new { @style = "max-width: 700px; margin: auto" }))
+                    {
+                        <input type="hidden" name="id" value=0/>
+                        @Html.TextBox("search", null, htmlAttributes: new { @class = "form-control", @style = "width: 200px", @type = "text", placeholder = "Search by Name, Code" })
+                        <button type="submit" class="btn btn-info fa fa-search icon" style="background: #254558" pull-right> search</button>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+
+<div class="row">
+    <div class="col-md-2"></div>
+    <div class="col-md-8">
+        <div class="card">
+            <div class="card-header card-header-primary" style="background: #447fa2">
+                <h4 class="card-title"> @ViewBag.Head Category</h4>
+            </div>
+            <div class="card-body">
+                @using (Html.BeginForm((string)ViewBag.Submit, "Category", FormMethod.Post, htmlAttributes: new { @style = "max-width: 700px; margin: auto" }))
+                {
+                    <div class="row">
+                        <div class="col-md-1"></div>
+                        <div class="col-md-10">
+                            <div class="form-group">
+                                @Html.TextBoxFor(c => c.Id, htmlAttributes: new{@type = "hidden"})
+                                @Html.LabelFor(c => c.Code, htmlAttributes: new { @class = "bmd-label-floating" })
+                                @Html.TextBoxFor(c => c.Code, htmlAttributes: new
+                                {
+                                    @class = "form-control",
+                                    @type = "text",
+                                    @placeholder = "Code",
+                                })
+                                @Html.ValidationMessageFor(c => c.Code, null, htmlAttributes: new { @class = "text-danger", @id = "existCode" })
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-1"></div>
+                        <div class="col-md-10">
+                            <div class="form-group">
+                                @Html.LabelFor(c => c.Name, htmlAttributes: new { @class = "bmd-label-floating" })
+                                @Html.TextBoxFor(c => c.Name, htmlAttributes: new
+                                {
+                                    @class = "form-control",
+                                    @type = "text",
+                                    @placeholder = "Name",
+                                })
+                                @Html.ValidationMessageFor(c => c.Name, null, htmlAttributes: new { @class = "text-danger", @id = "existName" })
+
+                            </div>
+                        </div>
+                    </div>
+                    <button id="savButton" type="submit" class="btn btn-info pull-right" style="background: #254558">@ViewBag.ButtonName</button>
+                    <div class="clearfix"></div>
+                }
+            </div>
+        </div>
+    </div>
+    <div class="col-md-2"></div>
+</div>
+
+
+
+
+<div class="row">
+        <div class="col-md-2"></div>
+        <div class="col-md-8">
+            @if (ViewBag.Message != null)
+            {
+                <div class="alert alert-success" style="margin: auto">@ViewBag.Message</div>
+            }
+        </div>
+    <div class="col-md-2"></div>
+</div>
+@section MyScripts
+{
+    <script src="~/Scripts/jquery-3.4.1.js"></script>
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+}

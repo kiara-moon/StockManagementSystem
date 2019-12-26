@@ -1,0 +1,299 @@
+H:\BITM Course\project\BITM\New folder\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.csprojAssemblyReference.cache
+H:\BITM Course\project\BITM\New folder\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.csproj.CoreCompileInputs.cache
+H:\BITM Course\project\BITM\New folder\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Manager.dll
+H:\BITM Course\project\BITM\New folder\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Manager.pdb
+H:\BITM Course\project\BITM\New folder\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Model.dll
+H:\BITM Course\project\BITM\New folder\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Repository.dll
+H:\BITM Course\project\BITM\New folder\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.DatabaseContext.dll
+H:\BITM Course\project\BITM\New folder\DotNetCoders\DotNetCoders.Manager\bin\Debug\EntityFramework.dll
+H:\BITM Course\project\BITM\New folder\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Model.pdb
+H:\BITM Course\project\BITM\New folder\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Repository.pdb
+H:\BITM Course\project\BITM\New folder\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Repository.dll.config
+H:\BITM Course\project\BITM\New folder\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.DatabaseContext.pdb
+H:\BITM Course\project\BITM\New folder\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.DatabaseContext.dll.config
+H:\BITM Course\project\BITM\New folder\DotNetCoders\DotNetCoders.Manager\bin\Debug\EntityFramework.xml
+H:\BITM Course\project\BITM\New folder\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.csproj.CopyComplete
+H:\BITM Course\project\BITM\New folder\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.dll
+H:\BITM Course\project\BITM\New folder\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.pdb
+H:\BITM Course\project\BITM\New folder\Backup\16-11-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Manager.dll
+H:\BITM Course\project\BITM\New folder\Backup\16-11-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Manager.pdb
+H:\BITM Course\project\BITM\New folder\Backup\16-11-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Model.dll
+H:\BITM Course\project\BITM\New folder\Backup\16-11-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Repository.dll
+H:\BITM Course\project\BITM\New folder\Backup\16-11-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.DatabaseContext.dll
+H:\BITM Course\project\BITM\New folder\Backup\16-11-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\EntityFramework.dll
+H:\BITM Course\project\BITM\New folder\Backup\16-11-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Model.pdb
+H:\BITM Course\project\BITM\New folder\Backup\16-11-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Repository.pdb
+H:\BITM Course\project\BITM\New folder\Backup\16-11-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Repository.dll.config
+H:\BITM Course\project\BITM\New folder\Backup\16-11-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.DatabaseContext.pdb
+H:\BITM Course\project\BITM\New folder\Backup\16-11-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.DatabaseContext.dll.config
+H:\BITM Course\project\BITM\New folder\Backup\16-11-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\EntityFramework.xml
+H:\BITM Course\project\BITM\New folder\Backup\16-11-2019\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.csprojAssemblyReference.cache
+H:\BITM Course\project\BITM\New folder\Backup\16-11-2019\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.csproj.CoreCompileInputs.cache
+H:\BITM Course\project\BITM\New folder\Backup\16-11-2019\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.csproj.CopyComplete
+H:\BITM Course\project\BITM\New folder\Backup\16-11-2019\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.dll
+H:\BITM Course\project\BITM\New folder\Backup\16-11-2019\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.pdb
+I:\17-11-19\dotnetcoders\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Manager.dll
+I:\17-11-19\dotnetcoders\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Manager.pdb
+I:\17-11-19\dotnetcoders\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Model.dll
+I:\17-11-19\dotnetcoders\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Repository.dll
+I:\17-11-19\dotnetcoders\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.DatabaseContext.dll
+I:\17-11-19\dotnetcoders\DotNetCoders\DotNetCoders.Manager\bin\Debug\EntityFramework.dll
+I:\17-11-19\dotnetcoders\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Model.pdb
+I:\17-11-19\dotnetcoders\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Repository.pdb
+I:\17-11-19\dotnetcoders\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Repository.dll.config
+I:\17-11-19\dotnetcoders\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.DatabaseContext.pdb
+I:\17-11-19\dotnetcoders\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.DatabaseContext.dll.config
+I:\17-11-19\dotnetcoders\DotNetCoders\DotNetCoders.Manager\bin\Debug\EntityFramework.xml
+I:\17-11-19\dotnetcoders\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.csprojAssemblyReference.cache
+I:\17-11-19\dotnetcoders\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.csproj.CoreCompileInputs.cache
+I:\17-11-19\dotnetcoders\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.csproj.CopyComplete
+I:\17-11-19\dotnetcoders\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.dll
+I:\17-11-19\dotnetcoders\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.pdb
+H:\BITM Course\project\BITM\Original\gitlab\webappproject\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Manager.dll
+H:\BITM Course\project\BITM\Original\gitlab\webappproject\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Manager.pdb
+H:\BITM Course\project\BITM\Original\gitlab\webappproject\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Model.dll
+H:\BITM Course\project\BITM\Original\gitlab\webappproject\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Repository.dll
+H:\BITM Course\project\BITM\Original\gitlab\webappproject\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.DatabaseContext.dll
+H:\BITM Course\project\BITM\Original\gitlab\webappproject\DotNetCoders\DotNetCoders.Manager\bin\Debug\EntityFramework.dll
+H:\BITM Course\project\BITM\Original\gitlab\webappproject\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Model.pdb
+H:\BITM Course\project\BITM\Original\gitlab\webappproject\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Repository.pdb
+H:\BITM Course\project\BITM\Original\gitlab\webappproject\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Repository.dll.config
+H:\BITM Course\project\BITM\Original\gitlab\webappproject\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.DatabaseContext.pdb
+H:\BITM Course\project\BITM\Original\gitlab\webappproject\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.DatabaseContext.dll.config
+H:\BITM Course\project\BITM\Original\gitlab\webappproject\DotNetCoders\DotNetCoders.Manager\bin\Debug\EntityFramework.xml
+H:\BITM Course\project\BITM\Original\gitlab\webappproject\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.csprojAssemblyReference.cache
+H:\BITM Course\project\BITM\Original\gitlab\webappproject\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.csproj.CoreCompileInputs.cache
+H:\BITM Course\project\BITM\Original\gitlab\webappproject\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.csproj.CopyComplete
+H:\BITM Course\project\BITM\Original\gitlab\webappproject\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.dll
+H:\BITM Course\project\BITM\Original\gitlab\webappproject\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.pdb
+I:\21-11-19\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Manager.dll
+I:\21-11-19\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Manager.pdb
+I:\21-11-19\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Model.dll
+I:\21-11-19\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Repository.dll
+I:\21-11-19\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.DatabaseContext.dll
+I:\21-11-19\DotNetCoders\DotNetCoders.Manager\bin\Debug\EntityFramework.dll
+I:\21-11-19\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Model.pdb
+I:\21-11-19\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Repository.pdb
+I:\21-11-19\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Repository.dll.config
+I:\21-11-19\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.DatabaseContext.pdb
+I:\21-11-19\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.DatabaseContext.dll.config
+I:\21-11-19\DotNetCoders\DotNetCoders.Manager\bin\Debug\EntityFramework.xml
+I:\21-11-19\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.csprojAssemblyReference.cache
+I:\21-11-19\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.csproj.CoreCompileInputs.cache
+I:\21-11-19\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.csproj.CopyComplete
+I:\21-11-19\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.dll
+I:\21-11-19\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.pdb
+C:\Users\FATEMA\Desktop\webappproject\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Manager.dll
+C:\Users\FATEMA\Desktop\webappproject\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Manager.pdb
+C:\Users\FATEMA\Desktop\webappproject\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Model.dll
+C:\Users\FATEMA\Desktop\webappproject\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Repository.dll
+C:\Users\FATEMA\Desktop\webappproject\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.DatabaseContext.dll
+C:\Users\FATEMA\Desktop\webappproject\DotNetCoders\DotNetCoders.Manager\bin\Debug\EntityFramework.dll
+C:\Users\FATEMA\Desktop\webappproject\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Model.pdb
+C:\Users\FATEMA\Desktop\webappproject\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Repository.pdb
+C:\Users\FATEMA\Desktop\webappproject\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Repository.dll.config
+C:\Users\FATEMA\Desktop\webappproject\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.DatabaseContext.pdb
+C:\Users\FATEMA\Desktop\webappproject\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.DatabaseContext.dll.config
+C:\Users\FATEMA\Desktop\webappproject\DotNetCoders\DotNetCoders.Manager\bin\Debug\EntityFramework.xml
+C:\Users\FATEMA\Desktop\webappproject\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.csprojAssemblyReference.cache
+C:\Users\FATEMA\Desktop\webappproject\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.csproj.CoreCompileInputs.cache
+C:\Users\FATEMA\Desktop\webappproject\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.csproj.CopyComplete
+C:\Users\FATEMA\Desktop\webappproject\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.dll
+C:\Users\FATEMA\Desktop\webappproject\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.pdb
+D:\projects\BITM-Final-Project\webappproject\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Manager.dll
+D:\projects\BITM-Final-Project\webappproject\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Manager.pdb
+D:\projects\BITM-Final-Project\webappproject\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Model.dll
+D:\projects\BITM-Final-Project\webappproject\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Repository.dll
+D:\projects\BITM-Final-Project\webappproject\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.DatabaseContext.dll
+D:\projects\BITM-Final-Project\webappproject\DotNetCoders\DotNetCoders.Manager\bin\Debug\EntityFramework.dll
+D:\projects\BITM-Final-Project\webappproject\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Model.pdb
+D:\projects\BITM-Final-Project\webappproject\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Repository.pdb
+D:\projects\BITM-Final-Project\webappproject\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Repository.dll.config
+D:\projects\BITM-Final-Project\webappproject\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.DatabaseContext.pdb
+D:\projects\BITM-Final-Project\webappproject\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.DatabaseContext.dll.config
+D:\projects\BITM-Final-Project\webappproject\DotNetCoders\DotNetCoders.Manager\bin\Debug\EntityFramework.xml
+D:\projects\BITM-Final-Project\webappproject\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.csprojAssemblyReference.cache
+D:\projects\BITM-Final-Project\webappproject\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.csproj.CoreCompileInputs.cache
+D:\projects\BITM-Final-Project\webappproject\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.csproj.CopyComplete
+D:\projects\BITM-Final-Project\webappproject\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.dll
+D:\projects\BITM-Final-Project\webappproject\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.pdb
+I:\gitlab\webappproject\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Manager.dll
+I:\gitlab\webappproject\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Manager.pdb
+I:\gitlab\webappproject\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Model.dll
+I:\gitlab\webappproject\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Repository.dll
+I:\gitlab\webappproject\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.DatabaseContext.dll
+I:\gitlab\webappproject\DotNetCoders\DotNetCoders.Manager\bin\Debug\EntityFramework.dll
+I:\gitlab\webappproject\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Model.pdb
+I:\gitlab\webappproject\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Repository.pdb
+I:\gitlab\webappproject\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Repository.dll.config
+I:\gitlab\webappproject\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.DatabaseContext.pdb
+I:\gitlab\webappproject\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.DatabaseContext.dll.config
+I:\gitlab\webappproject\DotNetCoders\DotNetCoders.Manager\bin\Debug\EntityFramework.xml
+I:\gitlab\webappproject\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.csprojAssemblyReference.cache
+I:\gitlab\webappproject\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.csproj.CoreCompileInputs.cache
+I:\gitlab\webappproject\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.csproj.CopyComplete
+I:\gitlab\webappproject\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.dll
+I:\gitlab\webappproject\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.pdb
+H:\BITM Course\project\BITM\Original\Backup\02-12-2019\mywork\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Manager.dll
+H:\BITM Course\project\BITM\Original\Backup\02-12-2019\mywork\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Manager.pdb
+H:\BITM Course\project\BITM\Original\Backup\02-12-2019\mywork\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Model.dll
+H:\BITM Course\project\BITM\Original\Backup\02-12-2019\mywork\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Repository.dll
+H:\BITM Course\project\BITM\Original\Backup\02-12-2019\mywork\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.DatabaseContext.dll
+H:\BITM Course\project\BITM\Original\Backup\02-12-2019\mywork\DotNetCoders\DotNetCoders.Manager\bin\Debug\EntityFramework.dll
+H:\BITM Course\project\BITM\Original\Backup\02-12-2019\mywork\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Model.pdb
+H:\BITM Course\project\BITM\Original\Backup\02-12-2019\mywork\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Repository.pdb
+H:\BITM Course\project\BITM\Original\Backup\02-12-2019\mywork\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Repository.dll.config
+H:\BITM Course\project\BITM\Original\Backup\02-12-2019\mywork\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.DatabaseContext.pdb
+H:\BITM Course\project\BITM\Original\Backup\02-12-2019\mywork\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.DatabaseContext.dll.config
+H:\BITM Course\project\BITM\Original\Backup\02-12-2019\mywork\DotNetCoders\DotNetCoders.Manager\bin\Debug\EntityFramework.xml
+H:\BITM Course\project\BITM\Original\Backup\02-12-2019\mywork\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.csprojAssemblyReference.cache
+H:\BITM Course\project\BITM\Original\Backup\02-12-2019\mywork\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.csproj.CoreCompileInputs.cache
+H:\BITM Course\project\BITM\Original\Backup\02-12-2019\mywork\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.csproj.CopyComplete
+H:\BITM Course\project\BITM\Original\Backup\02-12-2019\mywork\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.dll
+H:\BITM Course\project\BITM\Original\Backup\02-12-2019\mywork\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.pdb
+I:\gitlab\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Manager.dll
+I:\gitlab\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Manager.pdb
+I:\gitlab\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Model.dll
+I:\gitlab\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Repository.dll
+I:\gitlab\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.DatabaseContext.dll
+I:\gitlab\DotNetCoders\DotNetCoders.Manager\bin\Debug\EntityFramework.dll
+I:\gitlab\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Model.pdb
+I:\gitlab\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Repository.pdb
+I:\gitlab\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Repository.dll.config
+I:\gitlab\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.DatabaseContext.pdb
+I:\gitlab\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.DatabaseContext.dll.config
+I:\gitlab\DotNetCoders\DotNetCoders.Manager\bin\Debug\EntityFramework.xml
+I:\gitlab\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.csprojAssemblyReference.cache
+I:\gitlab\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.csproj.CoreCompileInputs.cache
+I:\gitlab\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.csproj.CopyComplete
+I:\gitlab\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.dll
+I:\gitlab\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.pdb
+H:\BITM Course\project\BITM\Original\Backup\04-12-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Manager.dll
+H:\BITM Course\project\BITM\Original\Backup\04-12-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Manager.pdb
+H:\BITM Course\project\BITM\Original\Backup\04-12-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Model.dll
+H:\BITM Course\project\BITM\Original\Backup\04-12-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Repository.dll
+H:\BITM Course\project\BITM\Original\Backup\04-12-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.DatabaseContext.dll
+H:\BITM Course\project\BITM\Original\Backup\04-12-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\EntityFramework.dll
+H:\BITM Course\project\BITM\Original\Backup\04-12-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Model.pdb
+H:\BITM Course\project\BITM\Original\Backup\04-12-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Repository.pdb
+H:\BITM Course\project\BITM\Original\Backup\04-12-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Repository.dll.config
+H:\BITM Course\project\BITM\Original\Backup\04-12-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.DatabaseContext.pdb
+H:\BITM Course\project\BITM\Original\Backup\04-12-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.DatabaseContext.dll.config
+H:\BITM Course\project\BITM\Original\Backup\04-12-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\EntityFramework.xml
+H:\BITM Course\project\BITM\Original\Backup\04-12-2019\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.csprojAssemblyReference.cache
+H:\BITM Course\project\BITM\Original\Backup\04-12-2019\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.csproj.CoreCompileInputs.cache
+H:\BITM Course\project\BITM\Original\Backup\04-12-2019\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.csproj.CopyComplete
+H:\BITM Course\project\BITM\Original\Backup\04-12-2019\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.dll
+H:\BITM Course\project\BITM\Original\Backup\04-12-2019\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.pdb
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Manager.dll
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Manager.pdb
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Model.dll
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Repository.dll
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.DatabaseContext.dll
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\EntityFramework.dll
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Model.pdb
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Repository.pdb
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Repository.dll.config
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.DatabaseContext.pdb
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.DatabaseContext.dll.config
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\EntityFramework.xml
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.csprojAssemblyReference.cache
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.csproj.CoreCompileInputs.cache
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.csproj.CopyComplete
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.dll
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.pdb
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\System.Web.Mvc.dll
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\System.Web.WebPages.dll
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\System.Web.WebPages.Razor.dll
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\System.Web.Razor.dll
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\Microsoft.Web.Infrastructure.dll
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\System.Web.WebPages.Deployment.dll
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\System.Web.Mvc.xml
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\System.Web.WebPages.xml
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\System.Web.WebPages.Razor.xml
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\System.Web.Razor.xml
+H:\BITM Course\project\BITM\Original\Backup\05-12-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\System.Web.WebPages.Deployment.xml
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Manager.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Manager.pdb
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Model.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Repository.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders.Manager\bin\Debug\System.Web.Mvc.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.DatabaseContext.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders.Manager\bin\Debug\EntityFramework.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders.Manager\bin\Debug\System.Web.WebPages.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders.Manager\bin\Debug\System.Web.WebPages.Razor.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders.Manager\bin\Debug\System.Web.Razor.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders.Manager\bin\Debug\Microsoft.Web.Infrastructure.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders.Manager\bin\Debug\System.Web.WebPages.Deployment.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Model.pdb
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Repository.pdb
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Repository.dll.config
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders.Manager\bin\Debug\System.Web.Mvc.xml
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.DatabaseContext.pdb
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.DatabaseContext.dll.config
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders.Manager\bin\Debug\EntityFramework.xml
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders.Manager\bin\Debug\System.Web.WebPages.xml
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders.Manager\bin\Debug\System.Web.WebPages.Razor.xml
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders.Manager\bin\Debug\System.Web.Razor.xml
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders.Manager\bin\Debug\System.Web.WebPages.Deployment.xml
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.csprojAssemblyReference.cache
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.csproj.CoreCompileInputs.cache
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.csproj.CopyComplete
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.dll
+I:\5-12-19\6-12-19\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.pdb
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Manager.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Manager.pdb
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Model.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Repository.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\System.Web.Mvc.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.DatabaseContext.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\EntityFramework.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\System.Web.WebPages.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\System.Web.WebPages.Razor.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\System.Web.Razor.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\Microsoft.Web.Infrastructure.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\System.Web.WebPages.Deployment.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Model.pdb
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Repository.pdb
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Repository.dll.config
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\System.Web.Mvc.xml
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.DatabaseContext.pdb
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.DatabaseContext.dll.config
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\EntityFramework.xml
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\System.Web.WebPages.xml
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\System.Web.WebPages.Razor.xml
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\System.Web.Razor.xml
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders.Manager\bin\Debug\System.Web.WebPages.Deployment.xml
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.csprojAssemblyReference.cache
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.csproj.CoreCompileInputs.cache
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.csproj.CopyComplete
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.dll
+H:\BITM Course\project\BITM\Original\Backup\06-12-2019\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.pdb
+I:\Final\Final2\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Manager.dll
+I:\Final\Final2\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Manager.pdb
+I:\Final\Final2\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Model.dll
+I:\Final\Final2\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Repository.dll
+I:\Final\Final2\DotNetCoders\DotNetCoders.Manager\bin\Debug\System.Web.Mvc.dll
+I:\Final\Final2\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.DatabaseContext.dll
+I:\Final\Final2\DotNetCoders\DotNetCoders.Manager\bin\Debug\EntityFramework.dll
+I:\Final\Final2\DotNetCoders\DotNetCoders.Manager\bin\Debug\System.Web.WebPages.dll
+I:\Final\Final2\DotNetCoders\DotNetCoders.Manager\bin\Debug\System.Web.WebPages.Razor.dll
+I:\Final\Final2\DotNetCoders\DotNetCoders.Manager\bin\Debug\System.Web.Razor.dll
+I:\Final\Final2\DotNetCoders\DotNetCoders.Manager\bin\Debug\Microsoft.Web.Infrastructure.dll
+I:\Final\Final2\DotNetCoders\DotNetCoders.Manager\bin\Debug\System.Web.WebPages.Deployment.dll
+I:\Final\Final2\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Model.pdb
+I:\Final\Final2\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Repository.pdb
+I:\Final\Final2\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.Repository.dll.config
+I:\Final\Final2\DotNetCoders\DotNetCoders.Manager\bin\Debug\System.Web.Mvc.xml
+I:\Final\Final2\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.DatabaseContext.pdb
+I:\Final\Final2\DotNetCoders\DotNetCoders.Manager\bin\Debug\DotNetCoders.DatabaseContext.dll.config
+I:\Final\Final2\DotNetCoders\DotNetCoders.Manager\bin\Debug\EntityFramework.xml
+I:\Final\Final2\DotNetCoders\DotNetCoders.Manager\bin\Debug\System.Web.WebPages.xml
+I:\Final\Final2\DotNetCoders\DotNetCoders.Manager\bin\Debug\System.Web.WebPages.Razor.xml
+I:\Final\Final2\DotNetCoders\DotNetCoders.Manager\bin\Debug\System.Web.Razor.xml
+I:\Final\Final2\DotNetCoders\DotNetCoders.Manager\bin\Debug\System.Web.WebPages.Deployment.xml
+I:\Final\Final2\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.csprojAssemblyReference.cache
+I:\Final\Final2\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.csproj.CoreCompileInputs.cache
+I:\Final\Final2\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.csproj.CopyComplete
+I:\Final\Final2\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.dll
+I:\Final\Final2\DotNetCoders\DotNetCoders.Manager\obj\Debug\DotNetCoders.Manager.pdb

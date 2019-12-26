@@ -1,0 +1,66 @@
+﻿@model DotNetCoders.Models.SupplierView
+@{
+                ViewBag.Title = "Show";
+}
+
+@section MyStyles
+{
+    <style>
+
+        table {
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        th {
+            background: darkslateblue;
+            text-align: center;
+            padding: 10px;
+            color: azure;
+        }
+
+        td {
+            border: 1px solid #dddddd;
+            text-align: center;
+            padding: 8px;
+        }
+
+        tr:nth-child(even) {
+            background-color: #dddddd;
+        }
+    </style>
+}
+
+    <table>
+        <tr>
+            <th>Sl</th>
+            <th>Code</th>
+            <th>Name</th>
+            <th>Address</th>
+            <th>Email</th>
+            <th>Contact</th>
+            <th>Contact Person</th>
+            <th>Action</th>
+        </tr>
+        @{ int sl = 0;}
+        @foreach (var std in Model.Suppliers)
+        {
+            using (Html.BeginForm("Show", "Supplier", new { id = std.Id, search = "" }, FormMethod.Post))
+            {
+                <tr>
+                    <td>@(++sl)</td>
+                    <td>@std.Code</td>
+                    <td>@std.Name</td>
+                    <td>@std.Address</td>
+                    <td>@std.Email</td>
+                    <td>@std.Contact</td>
+                    <td>@std.ContactPerson</td>
+                    <td>
+                        @Html.ActionLink("Edit", "Add", "Supplier", new { @id = std.Id }, null) |
+                        <input type="submit" value="Delete" onclick="return confirm('Are you want to delete customer @std.Name ')" />
+                    </td>
+                </tr>
+            }
+        }
+    </table>

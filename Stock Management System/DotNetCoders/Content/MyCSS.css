@@ -1,0 +1,57 @@
+﻿body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+* {
+    box-sizing: border-box;
+}
+.input-container {
+    display: -ms-flexbox; /* IE10 */
+    display: flex;
+    width: 100%;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.icon {
+    /*padding: 10px;*/
+    background: #4dd0e1;
+    color: white;
+    min-width: 20px;
+    text-align: center;
+}
+.alert {
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    border-radius: 4px
+}
+.alert-danger {
+    color: #a94442;
+    background-color: #f2dede;
+    border-color: #ebccd1;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.input-field {
+    width: 150px;
+    padding: 10px;
+    outline: none;
+}
+.input-field:focus {
+    border: 2px solid dodgerblue;
+}
+/* Set a style for the submit button */
+.btn {
+    background-color: #4dd0e1;
+    color: white;
+    padding: 10px;
+    border: 2px solid #4dd0e1;
+    cursor: pointer;
+    opacity: 0.9;
+}
+.btn:hover {
+    opacity: 1;
+}
+.active-cyan-4 input[type=text]:focus:not([readonly]) {
+    border: 1px solid #4dd0e1;
+    box-shadow: 0 0 0 1px #4dd0e1;
+}

@@ -1,0 +1,60 @@
+﻿@model DotNetCoders.Models.CustomerView
+@{
+    ViewBag.Title = "Show";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@section MyStyles
+{
+    <style>
+
+        table {
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        th {
+            background: darkslateblue;
+            text-align: center;
+            padding: 10px;
+            color: azure;
+        }
+
+        td {
+            border: 1px solid #dddddd;
+            text-align: center;
+            padding: 8px;
+        }
+
+        tr:nth-child(even) {
+            background-color: #dddddd;
+        }
+    </style>
+}
+
+<div class="row">
+    <div class="col-md-2"></div>
+    <div class="col-md-8">
+        <div class="form-inline">
+            <div class="form-group">
+                @using (Html.BeginForm("Add", "Customer", new { id = 0 }, FormMethod.Get, new { @style = "max-width: 700px; margin: 0 180px 0 0" }))
+                {
+                    <button pull-left type="submit" class="btn btn-info" style="background: #254558"> @ViewBag.ActionName Customer</button>
+                }
+            </div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <div class="form-group">
+                @using (Html.BeginForm("Show", "Customer", FormMethod.Post, new { @style = "max-width: 700px; margin: auto" }))
+                {
+                    <input type="hidden" name="id" value=0 />
+                    @Html.TextBox("search", null, htmlAttributes: new { @class = "form-control", @style = "width: 200px", @type = "text", placeholder = "Search by Name, Contact, Email" })
+                    <button type="submit" class="btn btn-info fa fa-search icon" style="background: #254558" pull-right> search</button>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+<div>
+    @{
+        Html.RenderPartial("Customer/_CustomerShow", Model);
+    }
+</div>

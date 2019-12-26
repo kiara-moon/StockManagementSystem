@@ -1,0 +1,148 @@
+﻿@model DotNetCoders.Models.SalesView
+@{
+    ViewBag.Title = "Show";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@section MyStyles
+{
+    <style>
+        table {
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        th {
+            background: darkslateblue;
+            text-align: center;
+            padding: 10px;
+            color: azure;
+        }
+
+        td {
+            border: 1px solid #dddddd;
+            text-align: center;
+            padding: 8px;
+        }
+
+        tr:nth-child(even) {
+            background-color: #dddddd;
+        }
+    </style>
+}
+
+<div class="row">
+    <div class="col-md-2"></div>
+    <div class="col-md-8">
+        <div class="form-inline">
+            <div class="form-group">
+
+                @using (Html.BeginForm("Add", "Sales", null, FormMethod.Get, new { @style = "max-width: 700px; margin: 0 180px 0 0" }))
+                {
+                    <button type="submit" class="btn btn-info" style="background: #254558"> New Sales </button>
+                }
+            </div>
+            <div class="form-group">
+                @using (Html.BeginForm("Show", "Sales", FormMethod.Post, new { @style = "max-width: 700px; margin: auto" }))
+                {
+                    @Html.TextBox("search", null, htmlAttributes: new { @class = "form-control", @style = "width: 200px", @type = "text", placeholder = "Search by " })
+                    <button type="submit" class="btn btn-info fa fa-search icon" style="background: #254558"> search</button>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<table>
+    <tr>
+        <th>Sl</th>
+        <th>Date</th>
+        <th>Sales Code</th>
+        <th>Customer</th>
+        <th>Action</th>
+    </tr>
+    @{ int sl = 0;}
+    @foreach (var data in Model.SalesInfos)
+    {
+        <tr>
+            <td>@(++sl)</td>
+            <td>@data.Date</td>
+            <td>@data.Code</td>
+            <td>@data.Customer.Name</td>
+            <td>
+                @Html.ActionLink("Details", null, null, new { @class = "btn-info", @style = "padding: 8px; border-radius: 8px", @id = data.Id })
+                @*@Html.ActionLink("Delete", "Delete", "Customer", new { id = std.Id }, null)*@
+            </td>
+        </tr>
+    }
+</table>
+
+<br /><br /><br />
+
+<table>
+    <thead>
+        <tr>
+            <th>Sl</th>
+            <th>Code</th>
+            <th>Product</th>
+            <th>Quantity</th>
+            <th>TotalMRP</th>
+            <th>Payable Amount</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody id="productAll"></tbody>
+
+
+</table>
+
+
+@section MyScripts
+{
+    <script src="~/Scripts/jquery-3.4.1.js"></script>
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+    <script type="text/javascript">
+        $(document).on('click', 'a.btn-info', function () { // <-- changes
+            var id = $(this).attr("id");
+            var jsonData = { id: id };
+            $.ajax({
+                type: "POST",
+                url: "/Sales/Details",
+                data: jsonData,
+                //contentType: "application/json; charset=utf-8",
+                //dataType: "json",
+                success: function (response) {
+                    $("#productAll").empty();
+                    var j = 0;
+                    $.each(response.SalesProductInfos,
+                        function (i, item) {
+                            //var totalPrice = parseFloat(item.Quantity) * parseFloat(item.UnitPrice);
+                            $("#productAll").append(
+                                $('<tr>'),
+                                $('<td>').text(++i), $('</td>'),
+                                $('<td>').text(response.ProductCode[j]), $('</td>'),
+                                $('<td>').text(response.ProductName[j]), $('</td>'),
+                                $('<td>').text(item.Quantity), $('</td>'),
+                                $('<td>').text(response.TotalPrices[j]), $('</td>'),
+                                $('<td>').text(item.PayableAmount), $('</td>'),$('</tr>')
+                            );
+                            j++;
+                        });
+
+                },
+                failure: function (response) {
+                    alert('no'); //response.responseText
+                },
+                error: function (response) {
+                    alert('error');
+                }
+            });
+
+            return false;
+        });
+
+    </script>
+}
